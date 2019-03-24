@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "199051544362",
+    "firebase_url": "https://vhhikingfestival.firebaseio.com",
+    "project_id": "vhhikingfestival",
+    "storage_bucket": "vhhikingfestival.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199051544362:android:c1f7f604abced43d",
+        "android_client_info": {
+          "package_name": "com.vikingFestival.trabalho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199051544362-7l3d59q1e6nr58d5jflcu64c325c48pc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vikingFestival.trabalho",
+            "certificate_hash": "e356bc6c743c04e3beda59289146923ae9f4ee26"
+          }
+        },
+        {
+          "client_id": "199051544362-p53rhb7dg6ti4ia2b80sgcol4gpn1924.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9OTGV57S1UlAn_4duz4794_8qNhL6StA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199051544362-p53rhb7dg6ti4ia2b80sgcol4gpn1924.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
